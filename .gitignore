@@ -1,0 +1,11 @@
+data/conflict_tracker.db
+data/conflict_tracker.db-shm
+data/conflict_tracker.db-wal
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+build/
+.streamlit/
