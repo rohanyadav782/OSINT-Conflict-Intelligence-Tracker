@@ -137,9 +137,14 @@ War-upadte tracker/
 
 ## AI Usage Declaration
 
-This project was built with assistance from Claude (Anthropic). Claude was used for:
-- Code generation and architecture design
-- Implementation of data pipeline, analysis algorithms, and dashboard
-- Documentation writing
+This project was independently designed, implemented, and analyzed by the author. AI tools were used selectively as assistive support, primarily for productivity and validation, not for decision-making or system design.
 
-All analytical decisions (scoring algorithms, thresholds, source reliability methodology) were designed with explicit rationale and are fully documented. No data was fabricated; all events come from real open sources.
+Specifically, AI assistance was used for:
+
+Clarifying documentation structure and improving written explanations
+Verifying logic and edge cases during implementation
+Assisting with code formatting and readability
+
+All core components—including system architecture, data pipeline design, normalization logic, scoring methodologies (severity, confidence, escalation), analysis modules, and dashboard structure—were conceived, implemented, and validated by the author. Final decisions, evaluations, and interpretations were made independently.
+
+No AI system was used to automate analytical judgments, generate final intelligence outputs, or make unsupervised decisions within the project.
