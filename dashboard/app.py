@@ -9,10 +9,6 @@ project_root = os.path.join(os.path.dirname(__file__), "..")
 sys.path.insert(0, project_root)
 
 import streamlit as st
-from pipeline.db import init_db
-
-# Ensure DB and tables exist (critical for cold-start on Streamlit Cloud)
-init_db()
 
 st.set_page_config(
     page_title="OSINT Conflict Tracker",
